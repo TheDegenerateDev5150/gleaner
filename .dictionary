@@ -96,6 +96,7 @@ TWiG
 TaskCluster
 Taskcluster
 TigerBeetle's
+TypeScript
 UA
 UI
 URIs
@@ -240,6 +241,7 @@ ns
 ol
 ons
 outputter
+outputters
 pdoc
 perrymcmanis
 pidcat
